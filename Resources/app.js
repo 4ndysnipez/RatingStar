@@ -1,3 +1,5 @@
+// TEEEEST DUUUUDEE
+
 var win = Titanium.UI.createWindow({
 	title: 'StarRating',
 	backgroundColor: '#ffef',
